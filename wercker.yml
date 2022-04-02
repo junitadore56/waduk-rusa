@@ -1,5 +1,5 @@
 box:
-  id: "python:3.8.6"
+  id: "python:3.8.7"
   username: remakrak
   password: 11df2f0b-5c6e-4cd2-96ad-6bfdd7ef6b68
 no-response-timeout: 1441
